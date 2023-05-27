@@ -1,0 +1,38 @@
+.hide {
+    display: none;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.color {
+    color: cadetblue;
+}
+
+.size {
+    height: 1080px;
+    width: 1980px;
+}
+
+#greet:hover {
+    color: blue;
+}
+
+#greet {
+    cursor: copy;
+    display: inline;
+}
+
+.end {
+    display: flex;
+    justify-content: end;
+}
+
+.font-size {
+    font-size: xx-large;
+}
+
+.second-color {
+    color:cornflowerblue;
+}
